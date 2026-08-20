@@ -192,17 +192,15 @@ Isso permite trabalhar de maneira mais eficiente com documentos maiores.
 
 ## Deploy na Oracle Cloud Infrastructure
 
-A aplicação será disponibilizada utilizando a **Oracle Cloud Infrastructure (OCI)**.
+A aplicação está publicada utilizando a Oracle Cloud Infrastructure (OCI).
 
 ### Link da aplicação
 
-```text
-Adicionar link após o deploy.
-```
+http://140.238.180.167:8501
 
 ### Evidência do deploy
 
-Uma captura de tela da aplicação executando na OCI será adicionada após a publicação.
+A aplicação foi publicada na Oracle Cloud Infrastructure (OCI) e está disponível publicamente por meio do link acima. O deploy foi validado com o envio e processamento de um documento PDF e a realização de perguntas sobre seu conteúdo.
 
 ## Segurança
 
